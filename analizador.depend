@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1455786219 source:c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\main.cpp
+	<iostream>
+	"menu.h"
+
+1455826769 c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\menu.h
+	<iostream>
+
+1464294781 source:c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\analizador.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<vector>
+	<map>
+	"analizador.h"
+	"semantica.h"
+	"arbol.h"
+
+1464070281 c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\analizador.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"semantica.h"
+	"arbol.h"
+
+1462313683 c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\arbol.h
+	<iostream>
+	<vector>
+	"nodo.h"
+	<fstream>
+
+1461056353 c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\nodo.h
+	<iostream>
+
+1463701330 source:c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\menu.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"analizador.h"
+
+1461056259 source:c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\nodo.cpp
+	"nodo.h"
+
+1462484251 source:c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\arbol.cpp
+	"arbol.h"
+	"nodo.h"
+	<iostream>
+	<fstream>
+
+1464067690 c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\semantica.h
+	<iostream>
+	<vector>
+
+1464127549 source:c:\users\sh-a-\documents\nuevosdocumentosw10-2\seminario de traductores ii\actividad 5\analizador3.0\analizador\semantica.cpp
+	<iostream>
+	"semantica.h"
+	<vector>
+

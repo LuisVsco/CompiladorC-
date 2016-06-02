@@ -1,0 +1,8 @@
+tipo: variable o funcion
+tipo de dato: int o void
+parametros: si es que una funcion tenia parametros poner solo int
+contexto: su pertenencia
+simbolo: nombre
+void a(){
+
+}
